@@ -1,0 +1,36 @@
+.div{
+    display:flex;
+    color: white;
+    background: rgba(255, 255, 255, 0.5);
+    justify-content: space-between;
+}
+.div1{
+    margin: 15px;
+    padding-top:100px;
+    border-radius:500px;
+    text-align:center;
+    color:black;
+    width:570px;
+    height:450px;
+    background-color: hsla(208, 100%, 97%,0.5);
+}
+.pho{
+    width:590px;
+    height: 590px;
+    border-radius:300px;
+}
+body{
+    background-image:url(../image/1.jpg);
+   
+}
+.h1{
+    font-family:Monotype Corsiva;
+}
+.h2{
+    color: red;
+    font-family:Monotype Corsiva;
+}
+.h3{
+    font-family: Bodoni MT Black;
+}
+}
